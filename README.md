@@ -1,0 +1,2 @@
+# sinchi-pqrsdf-externo
+dist
